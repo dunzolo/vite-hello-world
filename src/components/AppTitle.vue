@@ -10,8 +10,8 @@ export default {
 </script>
 
 <template lang="">
-    <div>
-        {{ title }}
+    <div class="title">
+        <h1>{{ title }}</h1>
     </div>
 </template>
 <style lang="">

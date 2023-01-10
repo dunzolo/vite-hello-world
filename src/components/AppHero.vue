@@ -11,7 +11,7 @@ export default {
 
 <template lang="">
     <div>
-        <img src="/Avengers-Age-of-Ultron.jpg" alt="">
+        <img class="w-100" src="/Avengers-Age-of-Ultron.jpg" alt="">
     </div>
 </template>
 <style lang="">
